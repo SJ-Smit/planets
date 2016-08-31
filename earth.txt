@@ -1,9 +1,4 @@
 The third out from the sun.
 
 Has decided to send some inhabitants to earth
-
-<<<<<<< HEAD
-lets see
-=======
 Say something
->>>>>>> 4f84d54fdc8510d17172f82764e4ef79e509aa3b
